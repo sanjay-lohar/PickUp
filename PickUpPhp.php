@@ -15,7 +15,7 @@
 			"name": "Are you into guys who are tall, dark, and handsome? / Are you into guys who are handsome, athletic, and charming? # Are you into guys who are intelligent, sexy, and funny?"
 		},
 		{
-			"name": "A boy gives a girl 12 roses. 11 real, 1 fa1ke and he says to her. ‘ I will stop loving you when all the roses die’"
+			"name": "A boy gives a girl 12 roses. 11 real, 1 fake and he says to her. ‘ I will stop loving you when all the roses die’"
 		},
 		{
 			"name": "Your beauty rivals the graphics of Call of Duty."
